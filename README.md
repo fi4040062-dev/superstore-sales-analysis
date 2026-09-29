@@ -38,12 +38,13 @@ The analysis includes:
 
 ## Dashboards
 
-Two dashboards were created to summarize the main findings:
+### Sales Performance Dashboard
 
-* Sales Performance Dashboard
-* Profit Performance Dashboard
+![Sales Dashboard](Sales_Dashboard.png)
 
-The dashboards include KPI cards and multiple visualizations to provide a clear overview of business performance.
+### Profit Performance Dashboard
+
+![Profit Dashboard](Profit_Dashboard.png)
 
 ## Key Insights
 
