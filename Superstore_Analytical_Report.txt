@@ -1,0 +1,21 @@
+SUPERSTORE ANALYTICAL REPORT
+========================================
+
+KPI SUMMARY
+--------------------
+Total Sales: 2297200.86
+Total Profit: 286397.02
+Total Quantity: 37873.00
+Average Sales: 229.86
+Average Profit: 28.66
+Average Discount: 0.16
+
+EDA INSIGHTS
+--------------------
+1. Technology has the highest total sales and profit among all categories.
+2. Furniture has relatively high sales but the lowest total profit, which indicates lower profitability compared with the other categories.
+3. The West region has the highest total sales, while the South region has the lowest total sales.
+4. Sales generally increase toward the end of the year, with November 2019 recording the highest monthly sales.
+5. Consumer is the largest customer segment by sales, followed by Corporate and Home Office.
+6. Sean Miller is the top customer by total sales.
+7. Technology has the highest profit margin at 17.39%, while Furniture has the lowest at 2.49%.
